@@ -1,4 +1,4 @@
-package com.pattern.design.singleton;
+package com.pattern.design.singleton.example;
 
 public class Settings {
 
