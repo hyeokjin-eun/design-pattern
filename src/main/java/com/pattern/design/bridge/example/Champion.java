@@ -1,4 +1,14 @@
 package com.pattern.design.bridge.example;
 
-public interface Campion {
+public interface Champion {
+
+    void move();
+
+    void skillQ();
+
+    void skillW();
+
+    void skillE();
+
+    void skillR();
 }
