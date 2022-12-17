@@ -1,2 +1,6 @@
-package com.pattern.design.bridge.example;public interface Skin {
+package com.pattern.design.bridge.example;
+
+public interface Skin {
+
+    String getName();
 }
