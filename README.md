@@ -14,3 +14,5 @@
    5. [퍼사드 패턴](https://github.com/hyeokjin-eun/design-pattern/tree/master/src/main/java/com/pattern/design/facade)
    6. [플라이웨이트 패턴](https://github.com/hyeokjin-eun/design-pattern/tree/master/src/main/java/com/pattern/design/flyweight)
    7. [프록시 패턴](https://github.com/hyeokjin-eun/design-pattern/tree/master/src/main/java/com/pattern/design/proxy)
+3. 행위 관련 디자인 패턴
+   1. [책임연쇄패턴](https://github.com/hyeokjin-eun/design-pattern/tree/master/src/main/java/com/pattern/design/chainofresponsililty)
